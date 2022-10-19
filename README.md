@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on multimedia art development, c++
 - 📫 How to reach me send me an email.
 
-Buenos Aires - Argentina
+Buenos Aires - Argentina - 2022
 
 <!---
 fer1985oliva/fer1985oliva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
